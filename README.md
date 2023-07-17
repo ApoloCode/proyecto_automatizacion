@@ -30,4 +30,5 @@ Después de hablar con los administradores de la base de datos, reuniste unos re
 - Importancia: todos los gráficos son igualmente importantes
 - Intervalo de actualización de los datos: una vez cada 24 horas, a la media noche UTC
 - Gráficos, controles de dashboard y su orden:
+  
 ![Gráficos, controles de dashboard y su orden](https://practicum-content.s3.us-west-1.amazonaws.com/resources/moved_11.5.2ES_1655899599.png)
